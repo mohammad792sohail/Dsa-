@@ -1,0 +1,12 @@
+Find the Maximum Element in an Array:
+
+Problem Statement: Given an array of integers, determine the maximum value present in the array.
+Approach: Iterate through each element, keeping track of the highest value encountered.
+Reverse an Array:
+
+Problem Statement: Given an array, reverse the order of its elements.
+Approach: Swap elements from the start and end moving towards the center, until all elements are reversed.
+Check for Duplicates in an Array:
+
+Problem Statement: Determine if an array contains any duplicate elements.
+Approach: Utilize a data structure like a set to track seen elements, and check for repeats as you iterate through the array.
